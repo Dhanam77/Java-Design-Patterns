@@ -4,7 +4,7 @@ public class StrategyPatternDemo {
     public static void main(String[] args){
         King king = new King(new SwordBehaviour());
         king.fight();
-        king.setWeapon(new BowAndArrowBehaviour());
+        king.setWeaponBehaviour(new BowAndArrowBehaviour());
         king.fight();
 
         Troll troll = new Troll(new AxeBehaviour());

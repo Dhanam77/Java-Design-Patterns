@@ -6,4 +6,8 @@ public abstract class Character {
         this.weaponBehaviour = weaponBehaviour;
     }
     public abstract void fight();
+
+    public void setWeaponBehaviour(WeaponBehaviour weaponBehaviour){
+        this.weaponBehaviour = weaponBehaviour;
+    }
 }
