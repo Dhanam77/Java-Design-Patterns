@@ -1,4 +1,4 @@
-package StrategyPattern;
+package BehavioralDesignPatterns.StrategyPattern;
 
 public class StrategyPatternDemo {
     public static void main(String[] args){

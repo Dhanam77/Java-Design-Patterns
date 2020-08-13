@@ -1,4 +1,4 @@
-package StrategyPattern;
+package BehavioralDesignPatterns.StrategyPattern;
 
 public abstract class Character {
     public WeaponBehaviour weaponBehaviour;

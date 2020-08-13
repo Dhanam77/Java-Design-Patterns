@@ -1,4 +1,4 @@
-package StrategyPattern;
+package BehavioralDesignPatterns.StrategyPattern;
 
 public class Knight extends Character {
     public Knight(WeaponBehaviour weaponBehaviour) {

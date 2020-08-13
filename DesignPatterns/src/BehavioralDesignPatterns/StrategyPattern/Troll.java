@@ -1,4 +1,4 @@
-package StrategyPattern;
+package BehavioralDesignPatterns.StrategyPattern;
 
 public class Troll extends Character {
     public Troll(WeaponBehaviour weaponBehaviour) {
